@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "477717562211",
+    "project_id": "phonenumber-30746",
+    "storage_bucket": "phonenumber-30746.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477717562211:android:f8a3bc7a5b757406efc956",
+        "android_client_info": {
+          "package_name": "com.example.fire_phonenumber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477717562211-ijrljnptuuqee4uas1ehn7l8bj6v6l2m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGdNbNsxPdcz-X3ddG_eHuiCfESsAYBFk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477717562211-ijrljnptuuqee4uas1ehn7l8bj6v6l2m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
